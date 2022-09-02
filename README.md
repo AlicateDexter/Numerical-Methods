@@ -4,7 +4,7 @@ As Mechanical Engineer Bachaleor, a starting point for me to learn a new languag
 
 In this Repository, Numerical Methods are implemented in the following languages: <br> 
 
-<span>&#8226;</span> Python;
-<span>&#8226;</span> Octave;
+<span>&#8226;</span> Python; <br>
+<span>&#8226;</span> Octave; <br>
 <span>&#8226;</span> Julia (to be developed);
 
