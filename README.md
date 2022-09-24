@@ -6,6 +6,6 @@ In this Repository, Numerical Methods are implemented in the following languages
 
 <span>&#8226;</span> Python; <br>
 <span>&#8226;</span> Octave; <br>
-<span>&#8226;</span> VBA (to be developed);
+<span>&#8226;</span> VBA (to be developed); <br>
 <span>&#8226;</span> Julia (to be developed);
 
